@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 15.2.2021-19.2.2021 
+**Course Date:** 15.2.2021
 
 **Name:** Utku Hasbey
 
